@@ -15,7 +15,7 @@ This is a simple to navigate landing page with multiple accessability options bu
 ![Screenshot of Horiseon Web Services Landing page](/Develop/assets/images/screen.JPG)
 
 ## Credits
-Coded by Horiseon, refactored by jacob Jeffries
+Coded by Horiseon, refactored by Jacob Jeffries (2022-11-21)
 
 ## License
 MIT License
