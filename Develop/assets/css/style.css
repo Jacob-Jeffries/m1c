@@ -30,7 +30,7 @@ header {
     color: #ffffff;
 }
 
-    /*Since there isn't a comma between header and h1, this affects the h1 tag within the header parent*/
+/*Since there isn't a comma between header and h1, this affects the h1 tag within the header parent*/
 header h1 {
     display: inline-block;
     font-size: 48px;
