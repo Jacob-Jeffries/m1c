@@ -178,16 +178,19 @@ main{
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    text-decoration: underline;
 }
 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
+    text-decoration: underline;
 }
 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    text-decoration: underline;
 }
 
 .benefit-lead img {
