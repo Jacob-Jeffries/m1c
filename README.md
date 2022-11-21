@@ -14,7 +14,7 @@ This is a simple to navigate landing page with multiple accessability options bu
 
  https://jacob-jeffries.github.io/m1c/
 
-![Screenshot of Horiseon Web Services Landing page](/Develop/assets/images/screen.JPG)
+![Screenshot of Horiseon Web Services Landing page](/assets/images/screen.JPG)
 
 ## Credits
 Coded by Horiseon, refactored by Jacob Jeffries (2022-11-21)
