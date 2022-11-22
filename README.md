@@ -7,7 +7,7 @@
 [License](#license)
 
 ## Installation
-There are now steps to installation, this site is publicly hosted.
+There are no steps to installation, this site is publicly hosted.
 
 ## Usage
 This is a simple to navigate landing page with multiple accessability options built in.
